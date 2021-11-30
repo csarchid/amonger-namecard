@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Monger;Amanda;;;
-FN: Amanda Monger
+N:Selden;Charles;;;
+FN: Charles Selden
 ORG:Cornerstone Architecture & Interior Design;
-TITLE:Interior Designer\nBusiness Development
-EMAIL;type=INTERNET;type=WORK;type=pref:amonger@csarch.com
+TITLE:Principal
+EMAIL;type=INTERNET;type=WORK;type=pref:cselden@csarch.com
 TEL;type=WORK;type=VOICE:804 353 3051
-TEL;type=CELL;type=VOICE:804 651 1133
-PHOTO;TYPE=JPEG;VALUE=URI:https://csarchid.github.io/amonger-namecard/amonger.jpg
+TEL;type=CELL;type=VOICE:804 304 6551
+PHOTO;TYPE=JPEG;VALUE=URI:https://csarchid.github.io/bizcards/cselden/cselden.jpg
 item1.ADR;type=WORK;type=pref:;;211 W. 7th St.;Richmond;VA;23224;US
 item1.X-ABADR:sg
 item2.URL;type=pref:csarch.com
