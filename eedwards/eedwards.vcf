@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Monger;Amanda;;;
-FN: Amanda Monger
+N:Edwards;Emma;;;
+FN: Emma Edwards
 ORG:Cornerstone Architecture & Interior Design;
-TITLE:Interior Designer\nBusiness Development
-EMAIL;type=INTERNET;type=WORK;type=pref:amonger@csarch.com
+TITLE:Architectural Designer
+EMAIL;type=INTERNET;type=WORK;type=pref:eedwards@csarch.com
 TEL;type=WORK;type=VOICE:804 353 3051
-TEL;type=CELL;type=VOICE:804 651 1133
-PHOTO;TYPE=JPEG;VALUE=URI:https://csarchid.github.io/amonger-namecard/amonger.jpg
+TEL;type=CELL;type=VOICE:804 461 6065
+PHOTO;TYPE=JPEG;VALUE=URI:https://csarchid.github.io/bizcards/eedwards/eedwards.jpg
 item1.ADR;type=WORK;type=pref:;;211 W. 7th St.;Richmond;VA;23224;US
 item1.X-ABADR:sg
 item2.URL;type=pref:csarch.com
